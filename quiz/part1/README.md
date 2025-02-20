@@ -7,7 +7,7 @@ singkatnya sih disini belajar if else, namun nanti ada soal yang dimana kamu har
 yak Buka aja W3school dan kerjakan soal soal berikut
 
 ## Soal 1:
-```js
+````js
 // Kamu diminta untuk memprogram suatu game sederhana, Proxytia namanya. 
 // Untuk memulai game itu diperlukan 2 variabel (untuk sekarang), 
 // yaitu nama dan peran. Variabel peran harus memiliki isi data, 
