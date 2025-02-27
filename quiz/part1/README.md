@@ -26,10 +26,9 @@ yak Buka aja W3school dan kerjakan soal soal berikut
 //tapi tanpa backtick juga ga masalah sih yg penting output sesuai
 
 // algoritma
-//isi algoritma mu disini (AWAS KALO GA DI ISI!!!!)
+//algoritma If else
 
-
-let nama = "", peran = "";
+let nama = "Dimas", peran = "Ksatria";
 
 //code disini gunakan console.log untuk outputnya
 
